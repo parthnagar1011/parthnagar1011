@@ -1,4 +1,2 @@
 - 👋 Hi, Parth Nagar
 - 🌱 I’m currently learning Machine Learning
-- 
-
